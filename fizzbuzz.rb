@@ -5,6 +5,8 @@
     puts "Fizz"
   elsif num % 5 == 0 then
     puts "Buzz"
+  elsif num % 7 == 0 then
+    puts "Git"
   else
     puts num
   end
